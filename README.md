@@ -1,16 +1,34 @@
-### Hi there 👋
+<h2> Hey there! I'm Trong.</h2>
 
-<!--
-**tronginc/tronginc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science at Lac Hong University.
+- 💼 &nbsp; Working as a IT Development at Lac Hong University's Information Material Center.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Nodejs Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | React Native
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+<br/>
+
+[![Trong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tronginc&show_icons=true)](https://github.com/tronginc)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.trongnc.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.tronginc.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.facebook.com/tronginc"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Trọng%20Công%20Nguyễn-blue?style=flat-square&logo=facebook"></a>
+<a href="https://www.instagram.com/tronginc/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-tronginc-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:tronginc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tronginc@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:trongnc@lhu.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-trongnc@lhu.edu.vn-green?style=flat-square&logo=gmail"></a>
+</p>
+
+Source:
+⭐️ From [AVS1508](https://github.com/AVS1508)
