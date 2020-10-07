@@ -8,15 +8,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Nodejs Development.
 
-<h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | R (Statistics) | MATLAB
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | React Native
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
-<br/>
 
 [![Trong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tronginc&show_icons=true)](https://github.com/tronginc)
 
