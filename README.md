@@ -10,7 +10,7 @@
 
 
 
-[![Trong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tronginc&show_icons=true)](https://github.com/tronginc)
+[![Trong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tronginc&show_icons=true&count_private=true)](https://github.com/tronginc)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
