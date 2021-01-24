@@ -12,6 +12,9 @@
 
 [![Trong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tronginc&show_icons=true&count_private=true)](https://github.com/tronginc)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tronginc&layout=compact)](https://github.com/tronginc)
+
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
@@ -21,6 +24,7 @@
 <a href="mailto:tronginc@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-tronginc@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="mailto:trongnc@lhu.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-trongnc@lhu.edu.vn-green?style=flat-square&logo=gmail"></a>
 </p>
+
 
 Source:
 ⭐️ From [AVS1508](https://github.com/AVS1508)
