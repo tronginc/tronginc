@@ -1,8 +1,10 @@
 <h2> Hey there! I'm Trong.</h2>
 
-[![Trong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tronginc&show_icons=true&count_private=true)](https://github.com/tronginc)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tronginc&layout=compact)](https://github.com/tronginc)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -15,6 +17,3 @@
 <a href="mailto:trongnc@lhu.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-trongnc@lhu.edu.vn-green?style=flat-square&logo=gmail"></a>
 </p>
 
-
-Source:
-⭐️ From [AVS1508](https://github.com/AVS1508)
